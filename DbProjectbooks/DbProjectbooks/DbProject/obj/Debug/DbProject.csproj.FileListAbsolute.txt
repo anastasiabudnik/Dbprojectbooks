@@ -1,0 +1,6 @@
+C:\Users\budni\Downloads\DbProject-master (1)\DbProject-master\DbProject\obj\Debug\DbProject.csproj.AssemblyReference.cache
+C:\Users\budni\Downloads\DbProject-master (1)\DbProject-master\DbProject\obj\Debug\LoginForm.g.cs
+C:\Users\budni\Downloads\DbProject-master (1)\DbProject-master\DbProject\obj\Debug\MainWindow.g.cs
+C:\Users\budni\Downloads\DbProject-master (1)\DbProject-master\DbProject\obj\Debug\App.g.cs
+C:\Users\budni\Downloads\DbProject-master (1)\DbProject-master\DbProject\obj\Debug\DbProject_MarkupCompile.cache
+C:\Users\budni\Downloads\DbProject-master (1)\DbProject-master\DbProject\obj\Debug\DbProject_MarkupCompile.lref
